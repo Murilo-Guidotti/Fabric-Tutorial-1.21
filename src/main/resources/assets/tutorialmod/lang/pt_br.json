@@ -1,0 +1,13 @@
+{
+  "item.tutorialmod.pink_garnet": "Jóia Rosa",
+  "item.tutorialmod.raw_pink_garnet": "Jóia Rosa Bruta",
+
+  "block.tutorialmod.pink_garnet_block": "Bloco de Jóia Rosa",
+  "block.tutorialmod.raw_pink_garnet_block": "Bloco de Jóia Rosa Bruta",
+
+  "itemgroup.tutorialmod.pink_garnet_items": "Itens de Jóia Rosa",
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Blocos de Jóia Rosa",
+  "itemgroup.tutorialmod.swords": "Espadas",
+  "itemgroup.tutorialmod.pickaxe": "Picaretas",
+  "itemgroup.tutorialmod.axes": "Machados"
+}
