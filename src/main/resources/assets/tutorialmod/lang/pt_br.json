@@ -5,9 +5,9 @@
   "block.tutorialmod.pink_garnet_block": "Bloco de Jóia Rosa",
   "block.tutorialmod.raw_pink_garnet_block": "Bloco de Jóia Rosa Bruta",
 
+  "block.tutorialmod.pink_garnet_ore": "Minério de Jóia rosa",
+  "block.tutorialmod.pink_garnet_deepslate_ore": "Minério Rochoso de Jóia rosa",
+
   "itemgroup.tutorialmod.pink_garnet_items": "Itens de Jóia Rosa",
-  "itemgroup.tutorialmod.pink_garnet_blocks": "Blocos de Jóia Rosa",
-  "itemgroup.tutorialmod.swords": "Espadas",
-  "itemgroup.tutorialmod.pickaxe": "Picaretas",
-  "itemgroup.tutorialmod.axes": "Machados"
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Blocos de Jóia Rosa"
 }
